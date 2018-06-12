@@ -51,13 +51,15 @@ lower = \relative c {
         f' bes, f' bes, f' bes, | es d es d es d |                               
         es d es d es d | es c es c es c |                                        
         d f, d' f, d' f, | d' f, d' f, c' f, |
-	g bes g c g c | g d' g, d' g,2 |
-	g4 f' g, f' g, f' |
+	g bes g c g c | g d' g, d' g, d' |
+	g, f' g, f' g, f' |
 	es d es d es d | f c f c f c |
 	<f f,>2.~ <f f,> | d4 g, d' g, d' g, |
 	c g c g c g | r2 r4 <g, g,>2. | r2 r4 <g g,>2. |
 	r2 r4 <f f,>2. | r2 r4 <f f,>2. |
 	r2 r4 <c c,>2. | r2 r4 <c c,>2. |
+	r2 r4 <f f,>2. | <f f,>2. <f f,>2. |
+		
 	
 }	
 
